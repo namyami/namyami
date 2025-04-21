@@ -3,4 +3,4 @@
 no. 1 anime glazer 😛
 not every script is open sourced
 
-currently working on mapsense**.solutions**
+currently working on mapsense.solutions
