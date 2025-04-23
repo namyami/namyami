@@ -7,3 +7,6 @@ not every script is open sourced
 currently working on mapsense.solutions
 
 ![](https://komarev.com/ghpvc/?username=nbamwyd)
+
+discord::  mnamloule
+lmk if you seen this >:3
