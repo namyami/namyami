@@ -15,6 +15,9 @@ I love him..
 
 ![](https://komarev.com/ghpvc/?username=nbamwyd)
 
+![anime watcher](https://img.shields.io/badge/anime-glazer-ff69b4)
+![bad at lua](https://img.shields.io/badge/roblox-scripter-in%20recovery-critical)
+
 # 
 
 <p align="center">
