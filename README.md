@@ -15,8 +15,6 @@ I love him..
 
 ![](https://komarev.com/ghpvc/?username=nbamwyd)
 
-[![nbamwyd's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nbamwyd&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 # 
 
 <p align="center">
@@ -27,6 +25,6 @@ I love him..
 
 #
 
-a visual learner..
+a **visual** learner.. 😉
 codin code in LUA
 trying to learn HTML...
