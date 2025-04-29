@@ -15,7 +15,7 @@ also i play counter blox (true chinese experiences)
 
 I love him..
 
-![](https://komarev.com/ghpvc/?username=nbamwyd)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=nbamwyd)
 
 ![anime watcher but fall asleep during it](https://img.shields.io/badge/anime-glazer-ff69b4)
 
