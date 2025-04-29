@@ -19,7 +19,7 @@ I love him..
 
 ![anime watcher but fall asleep during it](https://img.shields.io/badge/anime-glazer-ff69b4)
 
-# 
+------
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/84/81/ff/8481ffb726a454888a12f2391c121f6d.jpg" width="300"/>
@@ -27,15 +27,13 @@ I love him..
   <b>me when the script finally flippin workssssss...</b>
 </p>
 
-#
+------
 
 a **visual** learner.. 😉
 codin code in LUA
 trying to learn HTML...
 
 i still fumbles in lua sometimes but im a quick learner :3
-
-------
 
 **hmm..**
 
