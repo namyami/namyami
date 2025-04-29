@@ -49,3 +49,6 @@ i still fumbles in lua sometimes but im a quick learner :3
 **hmm..**
 
 take a WILD guess.. if im a female or male :3
+
+
+# okay sowwy... what evar.. just get da script down there
