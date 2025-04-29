@@ -38,3 +38,8 @@ i still fumbles in lua sometimes but im a quick learner :3
 #
 
 **quotes of the day :pray**
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1362425924674388242/1362426095307194479/quote_1362424021131591711.png?ex=6810da2d&is=680f88ad&hm=64f427fffdcb880f5c0cf0a835b3adf8b6df5ea0baa5921234150966cf156d5a&" width="300"/>
+  <br>
+</p>
