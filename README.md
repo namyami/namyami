@@ -16,3 +16,8 @@ I love him..
 
 # 
 
+<p align="center">
+  <img src="https://i.pinimg.com/736x/84/81/ff/8481ffb726a454888a12f2391c121f6d.jpg" width="300"/>
+  <br>
+  <b>me when the script finally flippin workssssss...</b>
+</p>
