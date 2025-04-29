@@ -51,4 +51,4 @@ i still fumbles in lua sometimes but im a quick learner :3
 take a WILD guess.. if im a female or male :3
 
 
-# okay sowwy... what evar.. just get da script down there
+# okay sowwy... what evar.. just get da script down there cuz that's why you're here anyways... cheking source code.. silly lil boy :3
