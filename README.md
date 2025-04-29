@@ -28,14 +28,14 @@ I love him..
 </p>
 
 #
----
+
 a **visual** learner.. 😉
 codin code in LUA
 trying to learn HTML...
 
 i still fumbles in lua sometimes but im a quick learner :3
 
-#
+------
 
 **hmm..**
 
