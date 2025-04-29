@@ -21,3 +21,9 @@ I love him..
   <br>
   <b>me when the script finally flippin workssssss...</b>
 </p>
+
+#
+
+a visual learner..
+codin code in LUA
+trying to learn HTML...
