@@ -14,4 +14,3 @@ I love him..
 
 ![](https://komarev.com/ghpvc/?username=nbamwyd)
 
-# 
