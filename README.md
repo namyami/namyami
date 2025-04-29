@@ -11,6 +11,8 @@ currently working on mapsense.solutions
 discord::  mnamloule
 lmk if you seen this >:3
 
+also i play counter blox (true chinese experiences)
+
 I love him..
 
 ![](https://komarev.com/ghpvc/?username=nbamwyd)
