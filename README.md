@@ -36,3 +36,5 @@ trying to learn HTML...
 i still fumbles in lua sometimes but im a quick learner :3
 
 #
+
+**quotes of the day :pray**
