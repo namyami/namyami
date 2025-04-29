@@ -1,7 +1,7 @@
 --
 
 <p align="center">
-  <img src="https://tenor.com/view/hatsune-miku-hi-chat-hello-chat-wave-gif-26626833" width="300"/>
+  <img src="https://media1.tenor.com/m/Ji_EAW5ZvdMAAAAd/hatsune-miku-hi.gif" width="300"/>
   <br>
   <b>heyo there visitor..! or a.. stalker..</b>
 </p>
