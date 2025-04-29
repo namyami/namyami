@@ -1,3 +1,11 @@
+--
+
+<p align="center">
+  <img src="https://tenor.com/view/hatsune-miku-hi-chat-hello-chat-wave-gif-26626833" width="300"/>
+  <br>
+  <b>heyo there visitor..! or a.. stalker..</b>
+</p>
+
 **about me**
 
 **I was originally a roblox developer but i switched sides.. since I got very bored 😭**
