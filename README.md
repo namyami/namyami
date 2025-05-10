@@ -17,9 +17,9 @@ silly lil coder..
 
 not every script is open sourced
 
-currently working on mapsense.solutions
+currently working on : nothing
 
-discord::  mnamloule
+discord::  namyami_owo
 lmk if you seen this >:3
 
 also i play counter blox (true chinese experiences)
@@ -28,7 +28,7 @@ I love him..
 
 ![](https://komarev.com/ghpvc/?username=nbamwyd)
 
-![anime watcher but fall asleep during it](https://img.shields.io/badge/anime-glazer-ff69b4)
+![](https://img.shields.io/badge/anime-glazer-ff69b4)
 
 ------
 
