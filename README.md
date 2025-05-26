@@ -24,8 +24,6 @@ lmk if you seen this >:3
 
 also i play counter blox (true chinese experiences)
 
-I love him..
-
 ![](https://komarev.com/ghpvc/?username=nbamwyd)
 
 ![](https://img.shields.io/badge/anime-glazer-ff69b4)
