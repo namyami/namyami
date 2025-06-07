@@ -8,7 +8,7 @@
 
 **..  about me  ..**
 
-**figured out that my well.. little buddy is gone and noww ive gotta put a dildo to make it work**
+**taken by the best person in the world :3**
 
 ------
 
