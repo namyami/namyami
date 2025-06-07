@@ -8,12 +8,9 @@
 
 **..  about me  ..**
 
-**I was originally a roblox developer but i switched sides.. since I got very bored 😭**
+**figured out that my well.. little buddy is gone and noww ive gotta put a dildo to make it work**
 
 ------
-
-no. 1 anime glazer 😛
-silly lil coder..
 
 not every script is open sourced
 
@@ -22,11 +19,7 @@ currently working on : nothing
 discord::  namyami_owo
 lmk if you seen this >:3
 
-also i play counter blox (true chinese experiences)
-
 ![](https://komarev.com/ghpvc/?username=nbamwyd)
-
-![](https://img.shields.io/badge/anime-glazer-ff69b4)
 
 ------
 
@@ -45,8 +38,5 @@ trying to learn HTML...
 i still fumbles in lua sometimes but im a quick learner :3
 
 **hmm..**
-
-take a WILD guess.. if im a female or male :3
-
 
 # okay sowwy... what evar.. just get da script down there cuz that's why you're here anyways... cheking source code.. silly lil boy :3
